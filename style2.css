@@ -73,7 +73,7 @@ h1 {
     -ms-border-radius: 15px;
     border-radius: 15px;
 }
-.login-form input[type="text"], .login-form input[type="password"] {
+.login-form input[type="text"], .login-form input[type="password"], .login-form input[type="email"]{
     outline: none;
     font-size: 1em;
     color: #000;

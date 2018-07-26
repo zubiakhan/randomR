@@ -23,10 +23,10 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="10" />
+          <entry key="css" value="11" />
           <entry key="gif" value="11" />
           <entry key="header-bg" value="2" />
-          <entry key="html" value="14" />
+          <entry key="html" value="16" />
           <entry key="jpeg" value="3" />
           <entry key="jpg" value="35" />
           <entry key="js" value="3" />
@@ -39,8 +39,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="10" />
-          <entry key="HTML" value="14" />
+          <entry key="CSS" value="11" />
+          <entry key="HTML" value="16" />
           <entry key="Image" value="56" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="3" />
@@ -51,14 +51,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="399" />
-          <entry key="html" value="817" />
+          <entry key="css" value="403" />
+          <entry key="html" value="909" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="399" />
-          <entry key="HTML" value="817" />
+          <entry key="CSS" value="403" />
+          <entry key="HTML" value="909" />
         </counts>
       </usages-collector>
     </session>
@@ -66,14 +66,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/background1.gif">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/../RandomR/style2.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="75" column="97" selection-start-line="75" selection-start-column="97" selection-end-line="75" selection-end-column="97" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.html">
+        <entry file="file://$PROJECT_DIR$/../RandomR/img/background1.gif">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../RandomR/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
+            <state relative-caret-position="1290">
               <caret line="86" column="28" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -83,54 +92,53 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/00939dff0059e823658afe98bb6d87a4.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/_harry-potter-14.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/bg-pattern.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/bg-cta.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/game.css">
+        <entry file="file://$PROJECT_DIR$/../RandomR/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-487">
+            <state relative-caret-position="855">
+              <caret line="57" column="80" selection-start-line="57" selection-start-column="80" selection-end-line="57" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../RandomR/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="49" column="58" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="58" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#label#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../RandomR/img/_harry-potter-14.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../RandomR/img/bg-pattern.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../RandomR/img/bg-cta.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../RandomR/game.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-465">
               <caret line="129" column="15" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/The-milkyway-galaxy-2560x1600.jpg">
+        <entry file="file://$PROJECT_DIR$/../RandomR/img/The-milkyway-galaxy-2560x1600.jpg">
           <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="48" column="68" selection-start-line="48" selection-start-column="68" selection-end-line="48" selection-end-column="68" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#hr#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#label#0;n#div#0;n#form#0;n#div#1;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#1;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#span#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -144,7 +152,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>#dc2430</find>
       <find>#fdcc52</find>
       <find>header</find>
       <find>social</find>
@@ -172,8 +179,9 @@
       <find>font-</find>
       <find>font</find>
       <find>p</find>
-      <find>form</find>
       <find>gradient</find>
+      <find>form</find>
+      <find>text</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -200,6 +208,9 @@
         <option value="$PROJECT_DIR$/game.css" />
         <option value="$PROJECT_DIR$/game.html" />
         <option value="$PROJECT_DIR$/2.html" />
+        <option value="$PROJECT_DIR$/../RandomR/style2.css" />
+        <option value="$PROJECT_DIR$/../RandomR/register.html" />
+        <option value="$PROJECT_DIR$/../RandomR/login.html" />
       </list>
     </option>
   </component>
@@ -210,10 +221,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="315" />
-    <option name="y" value="27" />
-    <option name="width" value="1137" />
-    <option name="height" value="692" />
+    <option name="x" value="198" />
+    <option name="y" value="37" />
+    <option name="width" value="828" />
+    <option name="height" value="653" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -224,8 +235,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="startbootstrap-new-age-gh-pages" type="b2602c69:ProjectViewProjectNode" />
-              <item name="startbootstrap-new-age-gh-pages" type="462c0819:PsiDirectoryNode" />
+              <item name="RandomR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RandomR" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -277,15 +288,16 @@
       <option name="presentableId" value="Default" />
       <updated>1532120276440</updated>
       <workItem from="1532120282045" duration="11812000" />
-      <workItem from="1532456840461" duration="18299000" />
+      <workItem from="1532456840461" duration="19338000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30111000" />
+    <option name="totallyTimeSpent" value="31150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12639405" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -335,31 +347,31 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/img/app-store-badge.svg" />
-    <entry file="file://$PROJECT_DIR$/js/new-age.js">
+    <entry file="file://$PROJECT_DIR$/../RandomR/js/new-age.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-167" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+    <entry file="file://$PROJECT_DIR$/../RandomR/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/device-mockups/galaxy_s5/galaxy_s5_land_black.png">
+    <entry file="file://$PROJECT_DIR$/../RandomR/device-mockups/galaxy_s5/galaxy_s5_land_black.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/device-mockups/galaxy_s5/galaxy_s5_land_gold.png">
+    <entry file="file://$PROJECT_DIR$/../RandomR/device-mockups/galaxy_s5/galaxy_s5_land_gold.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
+    <entry file="file://$PROJECT_DIR$/../RandomR/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/vendor/jquery-1.11.2.min.js">
+    <entry file="file://$PROJECT_DIR$/../RandomR/js/vendor/jquery-1.11.2.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/new-age.css">
+    <entry file="file://$PROJECT_DIR$/../RandomR/css/new-age.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
           <caret line="271" column="18" selection-start-line="271" selection-start-column="18" selection-end-line="271" selection-end-column="18" />
@@ -381,7 +393,7 @@
     <entry file="file://$PROJECT_DIR$/img/images-4.jpeg" />
     <entry file="file://$PROJECT_DIR$/img/images-5.jpeg" />
     <entry file="file://$PROJECT_DIR$/img/orig.gif" />
-    <entry file="file://$PROJECT_DIR$/img/Thor.jpg">
+    <entry file="file://$PROJECT_DIR$/../RandomR/img/Thor.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -391,21 +403,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/../RandomR/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4566">
           <caret line="488" column="2" selection-start-line="488" selection-start-column="2" selection-end-line="488" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/instruction.html">
+    <entry file="file://$PROJECT_DIR$/../RandomR/instruction.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
@@ -415,39 +420,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#label#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header-bg">
+    <entry file="file://$PROJECT_DIR$/../RandomR/img/header-bg">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/stars.jpg">
+    <entry file="file://$PROJECT_DIR$/../RandomR/img/stars.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/giphy.gif">
+    <entry file="file://$PROJECT_DIR$/../RandomR/img/giphy.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/2.gif">
+    <entry file="file://$PROJECT_DIR$/../RandomR/img/2.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/IDSoUH.jpg">
+    <entry file="file://$PROJECT_DIR$/../RandomR/img/IDSoUH.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/instruction.css">
+    <entry file="file://$PROJECT_DIR$/../RandomR/instruction.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-477">
           <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game.html">
+    <entry file="file://$PROJECT_DIR$/../RandomR/game.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="482">
           <caret line="48" column="68" selection-start-line="48" selection-start-column="68" selection-end-line="48" selection-end-column="68" />
@@ -462,32 +457,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="86" column="28" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="28" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/00939dff0059e823658afe98bb6d87a4.jpg">
+    <entry file="file://$PROJECT_DIR$/../RandomR/img/00939dff0059e823658afe98bb6d87a4.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/_harry-potter-14.jpg">
+    <entry file="file://$PROJECT_DIR$/../RandomR/img/_harry-potter-14.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/background1.gif">
+    <entry file="file://$PROJECT_DIR$/../RandomR/img/background1.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/bg-pattern.png">
+    <entry file="file://$PROJECT_DIR$/../RandomR/img/bg-pattern.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/space_background_blue_dots_73340_1920x1080.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/bg-cta.jpg">
+    <entry file="file://$PROJECT_DIR$/../RandomR/img/bg-cta.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -504,13 +489,47 @@
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/The-milkyway-galaxy-2560x1600.jpg">
+    <entry file="file://$PROJECT_DIR$/../RandomR/img/The-milkyway-galaxy-2560x1600.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/game.css">
+    <entry file="file://$PROJECT_DIR$/../RandomR/game.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-487">
+        <state relative-caret-position="-465">
           <caret line="129" column="15" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RandomR/style2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="75" column="97" selection-start-line="75" selection-start-column="97" selection-end-line="75" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RandomR/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="80" selection-start-line="57" selection-start-column="80" selection-end-line="57" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RandomR/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="49" column="58" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#label#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RandomR/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="28" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
