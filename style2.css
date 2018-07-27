@@ -160,7 +160,7 @@ input.checkbox:checked:after {
     }
 }
 /*-- //checkbox --*/
-.login-form input[type="submit"] {
+.start input[type="submit"] {
     font-family: Miltonian;
     font-size: 1em;
     color: #fff;
@@ -177,7 +177,7 @@ input.checkbox:checked:after {
     -o-border-radius: 5px;
 
 }
-.login-form input[type="submit"]:hover {
+.start input[type="submit"]:hover {
     font-family: Miltonian;
     background: #111;
     background: linear-gradient(#004746,#111111);

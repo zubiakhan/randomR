@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
-
+@import url(https://fonts.googleapis.com/css?family=Miltonian);
 .alignleft {
     float: left;
     margin-right: 15px;
@@ -45,6 +45,42 @@ body {font-family: 'Roboto', sans-serif;background: #fff;font-size: 16px;color: 
 
 .header .container {position: relative;z-index: 3}
 
+.start input[type="submit"] {
+    font-family: Miltonian;
+    font-size: 0.8em;
+    color: #fff;
+    background: linear-gradient(#E91E63,#111111);
+    border:6px solid #ab1f4f;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: .6em 1em;
+    -webkit-appearance: none;
+    width: 20%;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+
+}
+.start input[type="submit"]:hover {
+    font-family: Miltonian;
+    background: #111;
+    background: linear-gradient(#013247,#111111);
+    border:6px solid #00a4a2;
+    border-radius: 5px;
+    position: relative;
+    font-size: 0.8em;
+    height:30%;
+    color: #E91E63;
+    transition: 0.5s all ;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+
+
+}
+
 
 .social-links {text-align: right;margin-bottom: 0px}
 .social-links a.btn.social-link {
@@ -74,6 +110,19 @@ body {font-family: 'Roboto', sans-serif;background: #fff;font-size: 16px;color: 
     top: 0;
     width: 100%;
     z-index: 2;
+}
+
+.site-title-table p{
+    font-family: Miltonian;
+    color: #ffffff;
+
+}
+
+
+.site-title-table p:hover{
+    font-family: Miltonian;
+    color: #F1453D;
+
 }
 .site-title-tablecell {
     display: table-cell;
@@ -141,7 +190,7 @@ body {font-family: 'Roboto', sans-serif;background: #fff;font-size: 16px;color: 
     margin-bottom: 10px;
 }
 .article-title a:hover {
-    color: #E2413A;
+    color: #ffffff;
 }
 .post-meta {
     text-transform: none;
@@ -228,15 +277,6 @@ body {font-family: 'Roboto', sans-serif;background: #fff;font-size: 16px;color: 
 .social-links.footer-social-links {
     margin: 0;
 }
-.copyright-text a {
-    color: #fff;
-}
-.copyright-text i.fa {
-    color: #f44336;
-    margin: 0 10px;
-}
-
-
 
 .footer-bottom {
     margin-top: 20px;
@@ -499,3 +539,5 @@ nav ul li a:hover {
 }
 
 .navbar-toggle .icon-bar{ background-color: #ffffff;}
+
+
