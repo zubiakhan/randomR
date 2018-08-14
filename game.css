@@ -22,6 +22,32 @@ section{
 
 }
 
+.para p
+{
+    font-family: Miltonian;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    color: #ffffff;
+    margin-top: 4%;
+    margin-left: 30%;
+    position: absolute;
+}
+
+.para p:hover
+{
+    font-family: Miltonian;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    color: #cd3874;
+
+
+}
+
+.para a:hover, a:visited, a:link, a:active {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
 hr{
     margin-top: 0px;
     border:1.5px solid #00fffd;
@@ -33,9 +59,6 @@ hr{
     font-size: 1em;
     padding: 1em;
 
-}
-p{
-    padding: 0.5em;
 }
 
 
@@ -144,7 +167,7 @@ p{
     }
 
     40%{
-        height: 30%
+        height: 30%;
         width: 100%;
         opacity: 0.5;
         padding: 0;

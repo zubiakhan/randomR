@@ -1,11 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 @import url( https://fonts.googleapis.com/css?family=Miltonian);
-body{
-    background-color: black;
-    background-image: url(img/_harry-potter-14.jpg);
-    background-size: cover;
 
-}
+body {font-family: 'Roboto', sans-serif;background: #fff;font-size: 16px;color: #424242;line-height: 28px;
+    background: url(img/_harry-potter-14.jpg);
+    background-size: cover;
+    -webkit-background-size: cover;
+
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;}
 
 section{
     background-size: cover;
@@ -79,10 +82,10 @@ p{
     display: block;
     font-family: Miltonian;
     color: #00fff0;
-    width:40%;
-    height: 2em;
+    width:60%;
+    height: 30%;
     position:relative;
-    margin-left:30%;
+
 
 
 }
@@ -102,3 +105,69 @@ p{
     top:1px;
 
 }
+
+.mytext1{
+
+
+    position: relative;
+    animation: text 3s 1;
+
+}
+
+@keyframes text {
+    0%{
+        color: #ab1f4f;
+        margin-bottom: -20px;
+
+    }
+    30%{
+        letter-spacing: 15px;
+        margin-bottom: -20px;
+
+    }
+    85%{
+        letter-spacing: 6px;
+        margin-bottom: -20px;
+
+    }
+}
+
+@media only screen and (max-width:800px) {
+    /* For tablets: */
+    .heading{
+        font-size: 2.4em;
+    }
+
+
+    @keyframes text {
+
+        30%{
+            letter-spacing: 4px;
+            margin-bottom: -20px;
+
+        }
+
+    }
+}
+
+
+@media only screen and (max-width:500px) {
+    /* For mobile phones: */
+
+    .heading{
+        font-size: 2em;
+    }
+
+
+
+    @keyframes text {
+
+        30%{
+            letter-spacing: 5px;
+            margin-bottom: -10px;
+
+        }
+
+    }
+}
+

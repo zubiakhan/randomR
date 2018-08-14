@@ -1,11 +1,3 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
-/*--reset--*/
-
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,700i);
 @import url(https://fonts.googleapis.com/css?family=Cabin);
 @import url( https://fonts.googleapis.com/css?family=Miltonian);
@@ -48,11 +40,7 @@ h1 {
     color: #fff;
     font-weight: 100;
 }
-.w3lsfooteragileits.next {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-}
+
 /*-- main --*/
 
 
@@ -224,6 +212,7 @@ input.checkbox:checked:after {
     position: relative;
 }
 .item {
+
     -webkit-transition: 0.5s;
     -moz-transition: 0.5s;
     -o-transition: 0.5s;
@@ -245,6 +234,7 @@ input.checkbox:checked:after {
     box-shadow: 0px 0px 50px #ffffff;
 }
 .item .bg {
+
     top: 0px;
     left: 0px;
     opacity: 1;
@@ -267,6 +257,7 @@ input.checkbox:checked:after {
     background-attachment: fixed;
 }
 .item .blur {
+
     top: 0px;
     left: 0px;
     z-index: -1;
@@ -290,6 +281,7 @@ input.checkbox:checked:after {
     background-attachment: fixed;
 }
 .item .block {
+
     width: 30%;
     padding: 3.5em 3em;
     margin: 4em auto;
@@ -533,4 +525,86 @@ p{
 }
 
 
+. button{
 
+    background: #41c1b8;
+    background: linear-gradient(#ab1f4f, #000000);
+    box-sizing: content-box;
+    border: 1px solid #00fffd;
+
+    border-radius: 5px;
+    box-shadow: 0 2px 0 #000;
+    display: block;
+    font-family: Miltonian;
+    color: #00fff0;
+    width:40%;
+    height: 2em;
+    position:relative;
+    margin-left:30%;
+
+
+}
+. button:hover,
+. button:focus{
+    background:#0c6125;
+    background: #fefe;
+    color: #004746;
+    outline: none;
+    transition: 1s all;
+}
+. button:active{
+    background: #ab1f4f;
+    background: linear-gradient(#41c1b8, #00908e);
+    box-shadow:0 1px 0 #000000,
+    inset 1px 0 1px #222;
+    top:1px;
+
+}
+
+.mytext1{
+
+
+    position: relative;
+    animation: text 3s 1;
+
+}
+
+@keyframes text {
+    0%{
+        color: #4d0c21;
+        margin-bottom: -5px;
+
+    }
+    30%{
+        letter-spacing: 15px;
+        margin-bottom: -5px;
+
+    }
+    85%{
+        letter-spacing: 6px;
+        margin-bottom: -5px;
+
+    }
+}
+
+@media only screen and (max-width:500px) {
+    /* For mobile phones: */
+    .header {
+        width: 100%;
+        height: 100%;
+    }
+
+    .mytext1 {
+        margin-top: 20%;
+    }
+
+    @keyframes text {
+
+        30%{
+            letter-spacing: 5px;
+            margin-bottom: -10px;
+
+        }
+
+    }
+}
